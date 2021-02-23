@@ -1,16 +1,14 @@
-### Hi there 👋
 
-<!--
-**mayconline/mayconline** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--<img width="auto" src="https://github.com/tgmarinho/tgmarinho/blob/master/banner.png">-->
 
-Here are some ideas to get you started:
+# Maycon Line
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Hello Clan o/ 👋
+Graduated in Computer Science, Passionate about Javascript with a focus on React JS, React Native and NodeJS.
+
+
+ :rocket:  &nbsp; Front-end Developer **@upnid**
+ <br/> 📱 &nbsp; &nbsp; Fullstack Developer [**@Rebalanceei**](https://play.google.com/store/apps/details?id=com.rebalanceei)
+  <br/> 🎂 &nbsp; Fullstack Developer [**@ZuzuCakes**](https://zuzucakes.netlify.app/)
+ 
+[![Gmail Badge](https://img.shields.io/badge/-mayconline.ti@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mayconline.ti@gmail.com)](mailto:mayconline.ti@gmail.com)
