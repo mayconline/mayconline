@@ -7,7 +7,7 @@
 Graduated in Computer Science, Passionate about Javascript with a focus on React JS, React Native and NodeJS.
 
 
- :rocket:  &nbsp; Front-end Developer **@upnid**
+ :rocket:  &nbsp; Software Engineer **@Layers**
  <br/> 📱 &nbsp;  Fullstack Developer [**@Rebalanceei**](https://play.google.com/store/apps/details?id=com.rebalanceei)
   <br/> 🎂 &nbsp; Fullstack Developer [**@ZuzuCakes**](https://zuzucakes.netlify.app/)
  
