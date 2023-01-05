@@ -9,7 +9,7 @@ Graduated in Computer Science, passionate about software development using Javas
 Creator of the Rebalanceei App, where I help stock market investors to monitor the evolution of their financial assets, available on the Google Play Store.
 
 
- <br/> 📱 &nbsp;  Software Engineer [**@Rebalanceei**](https://play.google.com/store/apps/details?id=com.rebalanceei)
+ <br/> 📱 &nbsp;  Software Engineer [**@Rebalanceei**](https://rebalanceei.vercel.app/)
  <br/> 🎂 &nbsp; Fullstack Developer [**@ZuzuCakes**](https://zuzucakes.netlify.app/)
  
 [![Gmail Badge](https://img.shields.io/badge/-mayconline.ti@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mayconline.ti@gmail.com)](mailto:mayconline.ti@gmail.com)
