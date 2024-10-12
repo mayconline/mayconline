@@ -13,3 +13,6 @@ Creator of the Rebalanceei App, where I help stock market investors to monitor t
  <br/> 
  
 [![Gmail Badge](https://img.shields.io/badge/-mayconline.ti@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mayconline.ti@gmail.com)](mailto:mayconline.ti@gmail.com)
+
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mayconline?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayconline)
