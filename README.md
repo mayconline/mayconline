@@ -10,6 +10,6 @@ Creator of the Rebalanceei App, where I help stock market investors to monitor t
 
 
  <br/> 📱 &nbsp;  Software Engineer [**@Rebalanceei**](https://rebalanceei.vercel.app/)
- <br/> 🎂 &nbsp;
+ <br/> 
  
 [![Gmail Badge](https://img.shields.io/badge/-mayconline.ti@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mayconline.ti@gmail.com)](mailto:mayconline.ti@gmail.com)
